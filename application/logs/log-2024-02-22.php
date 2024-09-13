@@ -1,0 +1,55 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-22 19:59:34 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'febi_webnew'@'localhost' (using password: YES) C:\xampp56\htdocs\compro\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2024-02-22 19:59:34 --> Unable to connect to the database
+ERROR - 2024-02-22 20:03:55 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:03:55 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:03:56 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:03:56 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:03:56 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:03:56 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:03:56 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:05:56 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:05:59 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:04 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:11 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:15 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:16 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:18 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:06:21 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:30 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:32 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:33 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:33 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:33 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:37 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:39 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:45 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:50 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:10:53 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:12 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:17 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:21 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:29 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-22 20:11:35 --> 404 Page Not Found: Public/uploads
